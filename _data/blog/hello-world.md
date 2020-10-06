@@ -4,6 +4,7 @@ path: /hello-world
 date: 2020-02-20T07:08:53.137Z
 title: Hello World title updated
 metaDescription: Meta description for Hello World
+category: cate3
 thumbnail: ''
 ---
 
