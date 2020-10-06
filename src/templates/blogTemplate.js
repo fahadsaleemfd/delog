@@ -22,6 +22,7 @@ export default function Template({
             <div className="post-thumbnail">
               <h1 className="post-title">{frontmatter.title}</h1>
               <div className="post-meta">{frontmatter.date}</div>
+               <h2>{frontmatter.category}</h2>
             </div>
           )}
           {!!frontmatter.thumbnail && (
